@@ -4,7 +4,7 @@
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
 * O projeto é uma pagina web com uma página de cadastrado;
-* Essa pagina de cadastro possui somente o design, sem a parte funcional.
+* A pagina de cadastro possui somente o design, sem a parte funcional.
 
 ## Conhecimentos utilizados 
 
