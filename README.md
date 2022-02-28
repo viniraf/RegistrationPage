@@ -3,7 +3,7 @@
 ## Informações 
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
-* O projeto é uma pagina web para fazer cadastrado;
+* O projeto é uma página web para fazer cadastrado;
 * A página possui somente o design, sem a parte funcional.
 
 ## Conhecimentos utilizados 
