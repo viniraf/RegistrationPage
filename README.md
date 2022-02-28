@@ -4,11 +4,11 @@
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
 * O projeto é uma pagina web com uma página de cadastrado;
-* A pagina de cadastro possui somente o design, sem a parte funcional.
+* A página de cadastro possui somente o design, sem a parte funcional.
 
 ## Conhecimentos utilizados 
 
-* Formulários, botão e  inputs personalizados;
+* Formulários, botão e inputs personalizados;
 * Efeitos de cores difentes ao passar o mouse em cima do botão;
 * Centralização do formulário com display flex;
 * Responsividade utilizando media queries.
